@@ -4,7 +4,7 @@
 
 This a skin for Rainmeter that displays your Dota 2 statistics.
 
-This skin uses the data obtained through Dota2Stats at Go to http://stats.dota2.be/.
+This skin uses the data obtained through Dota2Stats at http://stats.dota2.be/.
 
 ##Installation
 
