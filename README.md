@@ -14,5 +14,4 @@ Unzip the contents of the zip file into your C:/Users/YOUR_USER_NAME/Documents/R
 
 ##Future features
 
-* Dark theme
 * Most used hero
