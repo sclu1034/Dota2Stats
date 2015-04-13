@@ -1,7 +1,7 @@
 #Dota2Stats
 
 ##Thanks to bo1g
-He originally created this skin. He didn't update in over two years, so I took over and will now maintain a fixed and more up to date version here.
+He originally created this skin. He didn't update in over two years, so I took over and will now maintain a fixed and more up to date version here until he comes back.
 
 ##About the skin
 
