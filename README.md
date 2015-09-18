@@ -14,7 +14,7 @@ This skin uses the data obtained through Dota2Stats at https://dotabuff.com/.
 ![Full core skin](Screenshots/Full.png)
 
 ##### Last played match
-![Last played match](Screenshots/1 Match.png
+![Last played match](Screenshots/1 Match.png)
 
 ##### Last played match
 ![Most played hero](Screenshots/1 Hero.png)
