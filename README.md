@@ -14,7 +14,7 @@ Then open the Dota2Stats.ini in a text editor such as Notepad and paste the URL 
 You also might need to install the font located in the fonts folder inside the skin folder.
 
 ##Customization
-To customize the skin, open the Dota2Stats.ini in a text editor such as Notepad and follow the instructions in the "Setup" section.
+To customize the skin, open Variables.ini found in the @Resources folder in a text editor such as Notepad and follow the instructions there.
 
 ##Bugs
 * None, at the moment
