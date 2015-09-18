@@ -18,4 +18,10 @@ To customize the skin, open Variables.ini found in the @Resources folder in a te
 * None, at the moment
 
 ##Future features
-* None, I'm open for requests
+* Last three matches
+* Most played heroes
+* Three most played heroes
+* Customization module
+* Pack everything into an installer
+
+**I'm open for requests.**
