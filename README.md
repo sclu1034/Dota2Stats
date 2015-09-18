@@ -9,9 +9,7 @@ This skin uses the data obtained through Dota2Stats at https://dotabuff.com/.
 
 ##Installation
 Unzip the contents of the zip file into your C:/Users/<YourUserName>/Documents/Rainmeter/Skins directory and activate the skin in Rainmeter.
-Then open the Dota2Stats.ini in a text editor such as Notepad and paste the URL to your Dotabuff profile inside the quotes behind "URL=".
-
-You also might need to install the font located in the fonts folder inside the skin folder.
+Then open Variables.ini located inside the @Resource folder in a text editor such as Notepad and replace the text behind "URL=" with your profile URL.
 
 ##Customization
 To customize the skin, open Variables.ini found in the @Resources folder in a text editor such as Notepad and follow the instructions there.
