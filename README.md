@@ -7,6 +7,15 @@ He originally created this skin. He didn't update in over two years, so I took o
 This a skin for Rainmeter that displays your Dota 2 statistics.
 This skin uses the data obtained through Dota2Stats at https://dotabuff.com/.
 
+##### Compact core module
+![Compact core skin](Screenshots/Compact.png)
+
+##### Full core module
+![Full core skin](Screenshots/Full.png)
+
+##### Last played match
+![Last played match](Screenshots/1 Match.png)
+
 ##Installation
 Unzip the contents of the zip file into your C:/Users/<YourUserName>/Documents/Rainmeter/Skins directory and activate the skin in Rainmeter.
 Then open Variables.ini located inside the @Resource folder in a text editor such as Notepad and replace the text behind "URL=" with your profile URL.
@@ -18,9 +27,10 @@ To customize the skin, open Variables.ini found in the @Resources folder in a te
 * None, at the moment
 
 ##Future features
-* Last three matches
-* Most played heroes
-* Three most played heroes
+* Addtional modules:
+  * Last three matches
+  * Most played heroes
+  * Three most played heroes
 * Customization module
 * Pack everything into an installer
 
