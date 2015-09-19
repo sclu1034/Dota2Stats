@@ -4,8 +4,8 @@
 He originally created this skin. He didn't update in over two years, so I took over and will now maintain a fixed and more up to date version here until he comes back.
 
 ##About the skin
-This a skin for Rainmeter that displays your Dota 2 statistics.
-This skin uses the data obtained through Dota2Stats at https://dotabuff.com/.
+This is a skin for Rainmeter that displays your Dota 2 statistics.
+This skin uses data obtained from https://www.dotabuff.com/.
 
 ##### Compact core module
 ![Compact core skin](Screenshots/Compact.png)
