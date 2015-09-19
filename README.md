@@ -21,7 +21,7 @@ This skin uses data obtained from https://www.dotabuff.com/.
 
 
 ##Installation
-Unzip the contents of the zip file into your C:/Users/<YourUserName>/Documents/Rainmeter/Skins directory and activate the skin in Rainmeter.
+Unzip the contents of the zip file into your `%USERPROFILE%\Documents\Rainmeter\Skins` directory and activate the skin in Rainmeter.
 Then open Variables.ini located inside the @Resource folder in a text editor such as Notepad and replace the text behind "URL=" with your profile URL.
 
 ##Customization
@@ -33,7 +33,6 @@ To customize the skin, open Variables.ini found in the @Resources folder in a te
 ##Future features
 * Addtional modules:
   * Last three matches
-  * Most played heroes
   * Three most played heroes
 * Customization module
 * Pack everything into an installer
