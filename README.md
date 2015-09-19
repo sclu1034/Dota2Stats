@@ -34,7 +34,8 @@ To customize the skin, open Variables.ini found in the @Resources folder in a te
 * Addtional modules:
   * Last three matches
   * Three most played heroes
-* Customization module
+* Customization module:
+  * Resize option
 * Pack everything into an installer
 
 **I'm open for requests.**
