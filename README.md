@@ -1,5 +1,7 @@
 #Dota2Stats
 
+**Grab this skin [here](https://github.com/SirAiedail/Dota2Stats/releases).**
+
 ##Thanks to bo1g
 He originally created this skin. He didn't update in over two years, so I took over and will now maintain a fixed and more up to date version here until he comes back.
 
